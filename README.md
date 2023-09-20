@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasheed119&label=Profile%20views&color=0e75b6&style=flat" alt="rasheed119" /> </p>
 
-- 🌱 I’m currently learning **MERN (Advance)**
+- 🌱 I’m Familiar with **MERN (Advance)**
 
 - 💬 Ask me about **React js,Node js,Mongo DB,Express**
 
